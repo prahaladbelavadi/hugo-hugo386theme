@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HUGO.386</title>
-    <link>https://example.com/tags/</link>
+    <link>https://prahaladbelavadi.github.io/hugo-hugo386theme/tags/</link>
     <description>Recent content in Tags on HUGO.386</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://prahaladbelavadi.github.io/hugo-hugo386theme/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
